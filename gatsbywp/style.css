@@ -1,12 +1,12 @@
-/*
-Theme Name: Gatsby WP
-Author: Adam Bowen
-Author URI: https://adamcbowen.com/
-Description: Barebones theme for using WordPress as a backend for Gatsby without displaying on WordPress front end. Includes function to set empty acf fields to null to prevent graphql query issues on fields that are empty. Includes a custom post type called recipes, you can change or remove this however you would like. Or use the example to create more post types without the need for a plugin.
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: Gatsby, Headless CMS
-Text Domain: gatsbywp
-
-This theme, like WordPress, is licensed under the GPL.
+/*
+Theme Name: Gatsby WP
+Author: Adam Bowen
+Author URI: https://adamcbowen.com/
+Description: Barebones theme for using WordPress as a backend for Gatsby without displaying on WordPress front end. Includes function to set empty acf fields to null to prevent graphql query issues on fields that are empty. Includes a custom post type called recipes, you can change or remove this however you would like. Or use the example to create more post types without the need for a plugin.
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: Gatsby, Headless CMS
+Text Domain: gatsbywp
+
+This theme, like WordPress, is licensed under the GPL.
 */
